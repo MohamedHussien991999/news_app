@@ -30,7 +30,7 @@ https://github.com/MohamedHussien991999/news_app/assets/93053169/d8efbfec-ee75-4
 
 6) dio
 
-7) hared_preferences 
+7) shared_preferences 
 
 8) webview_flutter 
 
